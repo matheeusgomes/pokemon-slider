@@ -1,4 +1,4 @@
-# pokemon-slider-dev-week
+# Pokémon slider
 Um slider de cartas Pokemon, criado durante a Dev Week da escola Dev em Dobro. Foi utilizado HTML,CSS e JS.
 
 Acesso: <a href="https://matheeusgomes.github.io/pokemon-slider-dev-week/"><strong>Clique aqui!</strong></a>
